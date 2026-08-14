@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "9b3d974a85b71aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01524d6f1217563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9667518300c655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofs/3.3 Proofs Involving Quantifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 Proofs Involving Quantifiers"
+            }
+          },
+          {
+            "id": "a42e2df4998b2b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofs/3.1 Proof Stategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Proof Stategies"
+            }
+          },
+          {
+            "id": "7d676dc7d7a9b123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 Proofs Involving Disjunctions"
+            }
+          },
+          {
+            "id": "95db613ed58fc768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 Proofs Involving Disjunctions"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f66263e12ce40e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "151758170d4ad03f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d787ac65aa384c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "465cd6f768fec257",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dbd7c891880310df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f3008342643bb3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1395f110314884c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284f6189bbfdfd6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a74de7b5eda89233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ba513eb3f4918f48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1c1013d9bc387ab7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4a004fae57d737dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "3.4 Proofs Involving Conjunctions and Biconditionals 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "95db613ed58fc768",
+  "lastOpenFiles": [
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
+    "Proofs/3.5 Proofs Involving Disjunctions.md",
+    "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
+    "Proofs/3.3 Proofs Involving Quantifiers.md",
+    "Proofs/3.1 Proof Stategies.md",
+    "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
+    "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
+    "README.md",
+    "introduction.md",
+    "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
+    "Sentential Logic/1.4 Operation on sets.md",
+    "Sentential Logic/1.3 Variables and Sets.md",
+    "Sentential Logic/1.2 Truth Tables.md",
+    "Quantificational Logic/2.3 More Operations on Sets.md",
+    "latex-suite-snippets.md",
+    "Codex Latex Suite Test.md",
+    "latex-suite-snippets.js",
+    "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
+    "Quantificational Logic/More Operations on Sets.md",
+    "Quantificational Logic/2.1 Quantifiers.md",
+    "Proofs",
+    "Quantificational Logic/Equivalences involving Quantifiers.md",
+    "Sentential Logic/Operation on sets.md",
+    "Quantificational Logic/Quantifiers.md",
+    "Quantificational Logic/More operations on Sets.md",
+    "Sentential Logic/The Conditional and Biconditional Connectives.md",
+    "Quantificational Logic",
+    "Sentential Logic/Variables and Sets.md",
+    "Sentiatial Logic.md",
+    "Sentential Logic",
+    "新建 文本文档.txt"
+  ]
+}
