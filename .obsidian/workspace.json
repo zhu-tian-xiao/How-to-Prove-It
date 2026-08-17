@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "file": "Proofs/3.6 Existence and Uniqueness Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 Proofs Involving Disjunctions"
+              "title": "3.6 Existence and Uniqueness Proofs"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\exists!x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,27 +218,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "95db613ed58fc768",
   "lastOpenFiles": [
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
+    "introduction.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
     "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.1 Proof Stategies.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
     "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
     "README.md",
-    "introduction.md",
     "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
     "Sentential Logic/1.4 Operation on sets.md",
     "Sentential Logic/1.3 Variables and Sets.md",
