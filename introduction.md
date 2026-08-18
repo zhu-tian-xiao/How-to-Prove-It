@@ -33,7 +33,7 @@ Suppose $n$ is an integer larger than $1$ and $n$ is not prime. Then $2^n-1$ is 
 
 Conjecture1 is incorrect. $11$ is a **counterexample** to Conjecture 1.
 
-Proof of Conjecture 2: Since c is not prime, there are positive integers a and b such that $a<n$, $b<n$, and $n=ab$. Let $x=2^b-1$, and $y=1+2^b+2^{2b}+\dots+2^{(a-1)b}$. Then 
+Proof of Conjecture 2: Since $n$ is not prime, there are positive integers a and b such that $a<n$, $b<n$, and $n=ab$. Let $x=2^b-1$, and $y=1+2^b+2^{2b}+\dots+2^{(a-1)b}$. Then 
 
 $$
 \begin{aligned}  
