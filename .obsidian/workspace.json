@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.6 Existence and Uniqueness Proofs.md",
+                "file": "Proofs/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 Existence and Uniqueness Proofs"
+              "title": "未命名"
             }
           }
         ],
@@ -230,11 +230,12 @@
   },
   "active": "95db613ed58fc768",
   "lastOpenFiles": [
-    "Proofs/3.5 Proofs Involving Disjunctions.md",
     "Proofs/3.6 Existence and Uniqueness Proofs.md",
+    "Proofs/未命名.md",
+    "Proofs/3.3 Proofs Involving Quantifiers.md",
+    "Proofs/3.5 Proofs Involving Disjunctions.md",
     "introduction.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
-    "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.1 Proof Stategies.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
     "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
@@ -258,7 +259,6 @@
     "Sentential Logic/The Conditional and Biconditional Connectives.md",
     "Quantificational Logic",
     "Sentential Logic/Variables and Sets.md",
-    "Sentiatial Logic.md",
     "Sentential Logic",
     "新建 文本文档.txt"
   ]
