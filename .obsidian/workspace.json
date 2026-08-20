@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\exists!x",
+                "query": "right",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,13 +228,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "95db613ed58fc768",
+  "active": "63d787ac65aa384c",
   "lastOpenFiles": [
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
-    "introduction.md",
+    "Relations",
+    "Quantificational Logic/2.3 More Operations on Sets.md",
     "Proofs/3.7 More Examples of Proofs.md",
     "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
+    "introduction.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
     "Proofs/3.1 Proof Stategies.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
@@ -244,7 +246,6 @@
     "Sentential Logic/1.4 Operation on sets.md",
     "Sentential Logic/1.3 Variables and Sets.md",
     "Sentential Logic/1.2 Truth Tables.md",
-    "Quantificational Logic/2.3 More Operations on Sets.md",
     "latex-suite-snippets.md",
     "Codex Latex Suite Test.md",
     "latex-suite-snippets.js",
@@ -258,7 +259,6 @@
     "Quantificational Logic/More operations on Sets.md",
     "Sentential Logic/The Conditional and Biconditional Connectives.md",
     "Quantificational Logic",
-    "Sentential Logic/Variables and Sets.md",
     "Sentential Logic",
     "新建 文本文档.txt"
   ]
