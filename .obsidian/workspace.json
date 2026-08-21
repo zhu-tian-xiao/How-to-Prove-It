@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/4.1 Ordered Pairs and Cartesian Products.md",
+                "file": "Relations/4.2 Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Ordered Pairs and Cartesian Products"
+              "title": "4.2 Relations"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "95db613ed58fc768",
   "lastOpenFiles": [
-    "Proofs/3.7 More Examples of Proofs.md",
     "Relations/4.1 Ordered Pairs and Cartesian Products.md",
+    "Relations/4.2 Relations.md",
+    "Proofs/3.7 More Examples of Proofs.md",
     "Relations",
     "Quantificational Logic/2.3 More Operations on Sets.md",
     "Proofs/3.3 Proofs Involving Quantifiers.md",
@@ -258,7 +259,6 @@
     "Sentential Logic/Operation on sets.md",
     "Quantificational Logic/Quantifiers.md",
     "Quantificational Logic/More operations on Sets.md",
-    "Sentential Logic/The Conditional and Biconditional Connectives.md",
     "Quantificational Logic",
     "Sentential Logic",
     "新建 文本文档.txt"
