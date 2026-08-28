@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "file": "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 Proofs Involving Disjunctions"
+              "title": "1.5 The Conditional and Biconditional Connectives"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "substi",
+                "query": "E(x)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -229,22 +230,22 @@
   },
   "active": "63d787ac65aa384c",
   "lastOpenFiles": [
-    "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
-    "Sentential Logic/1.3 Variables and Sets.md",
+    "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
+    "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
+    "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
+    "Sentential Logic/1.3 Variables and Sets.md",
     "README.md",
     "Relations/4.2 Relations.md",
     "Relations/4.1 Ordered Pairs and Cartesian Products.md",
     "Proofs/3.7 More Examples of Proofs.md",
     "Relations",
     "Quantificational Logic/2.3 More Operations on Sets.md",
-    "Proofs/3.3 Proofs Involving Quantifiers.md",
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "introduction.md",
     "Proofs/3.1 Proof Stategies.md",
     "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
-    "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
     "Sentential Logic/1.4 Operation on sets.md",
     "Sentential Logic/1.2 Truth Tables.md",
     "latex-suite-snippets.md",
