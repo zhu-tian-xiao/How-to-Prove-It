@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd9667518300c655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proofs/3.3 Proofs Involving Quantifiers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 Proofs Involving Quantifiers"
-            }
-          },
-          {
-            "id": "a42e2df4998b2b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proofs/3.1 Proof Stategies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1 Proof Stategies"
-            }
-          },
-          {
             "id": "7d676dc7d7a9b123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "file": "Proofs/3.6 Existence and Uniqueness Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 Proofs Involving Disjunctions"
-            }
-          },
-          {
-            "id": "95db613ed58fc768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.5 The Conditional and Biconditional Connectives"
+              "title": "3.6 Existence and Uniqueness Proofs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,32 +185,32 @@
       "bases:新建数据库": false
     }
   },
-  "active": "63d787ac65aa384c",
+  "active": "7d676dc7d7a9b123",
   "lastOpenFiles": [
-    "Proofs/3.3 Proofs Involving Quantifiers.md",
+    "Sentential Logic/1.4 Operation on sets.md",
+    "Quantificational Logic/2.3 More Operations on Sets.md",
+    "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
+    "Quantificational Logic/2.1 Quantifiers.md",
+    "Relations/4.2 Relations.md",
+    "Relations/4.1 Ordered Pairs and Cartesian Products.md",
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
+    "Proofs/3.1 Proof Stategies.md",
+    "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
     "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Sentential Logic/1.3 Variables and Sets.md",
     "README.md",
-    "Relations/4.2 Relations.md",
-    "Relations/4.1 Ordered Pairs and Cartesian Products.md",
     "Proofs/3.7 More Examples of Proofs.md",
     "Relations",
-    "Quantificational Logic/2.3 More Operations on Sets.md",
     "introduction.md",
-    "Proofs/3.1 Proof Stategies.md",
     "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
-    "Sentential Logic/1.4 Operation on sets.md",
     "Sentential Logic/1.2 Truth Tables.md",
     "latex-suite-snippets.md",
     "Codex Latex Suite Test.md",
     "latex-suite-snippets.js",
-    "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
     "Quantificational Logic/More Operations on Sets.md",
-    "Quantificational Logic/2.1 Quantifiers.md",
     "Proofs",
     "Quantificational Logic/Equivalences involving Quantifiers.md",
     "Sentential Logic/Operation on sets.md",
