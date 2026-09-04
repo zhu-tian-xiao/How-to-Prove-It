@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.6 Existence and Uniqueness Proofs.md",
+                "file": "Proofs/3.7 More Examples of Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 Existence and Uniqueness Proofs"
+              "title": "3.7 More Examples of Proofs"
             }
           }
         ]
@@ -187,13 +187,13 @@
   },
   "active": "7d676dc7d7a9b123",
   "lastOpenFiles": [
+    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Sentential Logic/1.4 Operation on sets.md",
     "Quantificational Logic/2.3 More Operations on Sets.md",
     "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
     "Quantificational Logic/2.1 Quantifiers.md",
     "Relations/4.2 Relations.md",
     "Relations/4.1 Ordered Pairs and Cartesian Products.md",
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
     "Proofs/3.1 Proof Stategies.md",
     "Proofs/3.3 Proofs Involving Quantifiers.md",
