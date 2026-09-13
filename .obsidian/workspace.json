@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/4.2 Relations.md",
+                "file": "Relations/4.3 More about relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Relations"
+              "title": "4.3 More about relations"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "2bfae6c5b600869d",
   "lastOpenFiles": [
-    "^Definition422.md",
     "Relations/4.2 Relations.md",
+    "Relations/4.3 More about relations.md",
+    "^Definition422.md",
     "Example 4.2.2..md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
@@ -258,7 +259,6 @@
     "Quantificational Logic/2.1 Quantifiers.md",
     "Proofs",
     "Quantificational Logic/Equivalences involving Quantifiers.md",
-    "Sentential Logic/Operation on sets.md",
     "Quantificational Logic",
     "Sentential Logic",
     "新建 文本文档.txt"
