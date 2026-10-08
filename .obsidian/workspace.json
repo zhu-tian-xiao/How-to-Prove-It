@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/4.2 Relations.md",
+                "file": "Quantificational Logic/2.3 More Operations on Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Relations"
+              "title": "2.3 More Operations on Sets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contraposi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,21 +199,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0a97957455b8b0c3",
+  "active": "7d676dc7d7a9b123",
   "lastOpenFiles": [
-    "^Example422.md",
+    "Relations/4.3 More about relations.md",
     "Relations/4.2 Relations.md",
+    "Quantificational Logic/2.3 More Operations on Sets.md",
+    "Proofs/3.1 Proof Stategies.md",
+    "^Example422.md",
     "Relations/4.1 Ordered Pairs and Cartesian Products.md",
     "Relations/4.4 Ordering relations.md",
-    "Relations/4.3 More about relations.md",
     "Quantificational Logic/2.1 Quantifiers.md",
     "Proofs/3.7 More Examples of Proofs.md",
     "Proofs/3.6 Existence and Uniqueness Proofs.md",
     "Sentential Logic/1.4 Operation on sets.md",
-    "Quantificational Logic/2.3 More Operations on Sets.md",
     "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
     "Proofs/3.5 Proofs Involving Disjunctions.md",
-    "Proofs/3.1 Proof Stategies.md",
     "Proofs/3.3 Proofs Involving Quantifiers.md",
     "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
     "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
