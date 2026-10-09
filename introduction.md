@@ -88,14 +88,14 @@ so $x+i$ is not prime.
 
 The only pair of consecutive positive integers that are both prime is $2$ and $3$. There are lots of pairs of primes that differ by only 2, such pairs are called **twin primes**. It is not known whether there are infinitely many twin primes.
 # Exercise
-1.(a) Factor $2^{15} -1=32767$ into a product of two smaller positive integers.
+1. (a) Factor $2^{15} -1=32767$ into a product of two smaller positive integers.
 $32767=7\cdot 4681$
 
 (b) Find an integer $x$ such that $1 < x < 2^{32767}-1$ and $2^{32767}-1$ is divisible by $x$.
 
 Based on Proof of Conjecture 2, let $a=4681, b=7, n=ab=32767$, we find a $x=2^{b}-1=126, y=\frac{2^{32767}-1}{x}, xy=2^{32767}-1$, here we are sure $y$ is a positive integer.   Clearly $1<x<2^{32767}-1$.
 
-2.Make some conjecture about the value of n for which $3^n-1$ is prime or the values of n for which $3^n-2^n$ is prime.
+2. Make some conjecture about the value of n for which $3^n-1$ is prime or the values of n for which $3^n-2^n$ is prime.
 
 | n   | Is n prime? | $3^n-1$ | Is $3^n-1$ prime? | $3^n-2^n$ | Is $3^n-2^n$ prime? |
 | --- | ----------- | ------- | ----------------- | --------- | ------------------- |
@@ -110,7 +110,7 @@ Conjecture 2: When $n$ is an integer larger than $1$ and $n$ is prime, $3^n-2^n$
 
 Conjecture 3: $n$ is an integer larger than $1$ and $n$ is not prime, $3^n-2^n$ is not prime.
 
-3.The proof of Theorem 3 gives a method for finding a prime number different from any in a given list of prime numbers.
+3. The proof of Theorem 3 gives a method for finding a prime number different from any in a given list of prime numbers.
 (a) Use this method to find a prime different from $2, 3, 5,$ and $7$.
 (b) Use this method to find a prime different from $2, 5, 11$
 
@@ -119,15 +119,15 @@ Suppose there is a list of prime numbers $p_{1}, p_{2}, \dots p_{n}$. Let $m =p_
 (a) $m=2\cdot 3 \cdot 5 \cdot 7+1=211$, and $211$ is prime.
 (b) $m=2 \cdot 5 \cdot 11+1=111=3\cdot 37$, both $3$ and $37$ are prime.
 
-4.Find 5 consecutive integers that are not prime.
+4. Find 5 consecutive integers that are not prime.
 Based on Theorem 4, Let $x=(n+1)!+2$. When $n = 5$, $x=6!+2=722$, so $722, 723, 724, 725, 726$ are not prime.
 
-5.Use the table in Figure I.1 and the discussion on p5 to find two more perfect numbers.
+5. Use the table in Figure I.1 and the discussion on p5 to find two more perfect numbers.
 $2^5-1=31$ is prime, so $2^4(2^5-1)=496$ is a perfect number.
 
 $2^7-1=127$ is prime, so $2^6(2^7-1)=8128$ is a perfect number.
 
-6.The sequence $3, 5, 7$ is a list of three prime numbers such that each pair of adjacement numbers in the list differ by two. Are there any more such "triplet primes"?
+6. The sequence $3, 5, 7$ is a list of three prime numbers such that each pair of adjacement numbers in the list differ by two. Are there any more such "triplet primes"?
 
 There are 2 types of sequence. Let sequence 1: $2+2i, 2+2\cdot(i+1), 2+2\cdot(i+2), i\geq0$.  Clearly $2+2\cdot(i+1)$ and $2+2\cdot(i+2)$ are divisible by $2$, so sequence 1 can't make triplet primes.
 
@@ -135,7 +135,7 @@ Let sequece 2: $3+2i, 3+2\cdot(i+1), 3+2\cdot(i+2), i\geq1$, there is exactly on
 
 So there are not more such triplet primes other than $3, 5, 7$.
 
-7.A pair of distinct positive integers $(m, n)$ is called amicable if the
+7. A pair of distinct positive integers $(m, n)$ is called amicable if the
 sum of all positive integers smaller than $n$ that divide $n$ is $m$, and the sum of all positive integers smaller than $m$ that divide $m$ is $n$.
 Show that $(220, 284)$ is amicable.
 

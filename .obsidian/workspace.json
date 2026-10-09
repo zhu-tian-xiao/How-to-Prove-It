@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b01524d6f1217563",
+        "id": "a8f30138149bcea7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d676dc7d7a9b123",
+            "id": "530a7d8401f26d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relations/4.3 More about relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 More about relations"
+            }
+          },
+          {
+            "id": "35d0594287517dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "4.2 Relations"
-            }
-          },
-          {
-            "id": "0a97957455b8b0c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantificational Logic/2.3 More Operations on Sets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 More Operations on Sets"
             }
           }
         ]
@@ -199,10 +199,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7d676dc7d7a9b123",
+  "active": "530a7d8401f26d07",
   "lastOpenFiles": [
-    "Relations/4.3 More about relations.md",
     "Relations/4.2 Relations.md",
+    "Relations/4.3 More about relations.md",
     "Quantificational Logic/2.3 More Operations on Sets.md",
     "Proofs/3.1 Proof Stategies.md",
     "^Example422.md",
