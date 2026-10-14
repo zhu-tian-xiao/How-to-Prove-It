@@ -76,13 +76,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f3008342643bb3f",
@@ -187,7 +185,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "35d0594287517dd5",
+  "active": "63d787ac65aa384c",
   "lastOpenFiles": [
     "未命名.canvas",
     "Relations/4.4 Ordering relations.md",
