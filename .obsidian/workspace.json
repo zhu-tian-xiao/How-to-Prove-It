@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations/4.5 Equivalence Relations.md",
+                "file": "Proofs/3.3 Proofs Involving Quantifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 Equivalence Relations"
+              "title": "3.3 Proofs Involving Quantifiers"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "95db613ed58fc768",
   "lastOpenFiles": [
-    "Proofs/3.5 Proofs Involving Disjunctions.md",
     "Relations/4.5 Equivalence Relations.md",
+    "Proofs/3.5 Proofs Involving Disjunctions.md",
     "Relations/4.4 Ordering relations.md",
     "Relations/4.3 More about relations.md",
     "Relations/4.2 Relations.md",
