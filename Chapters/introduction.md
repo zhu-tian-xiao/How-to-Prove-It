@@ -3,7 +3,7 @@ Deductive reasoning: 演绎推理
 
 Deductive reasoning in mathematics is usually presented in the form of a **proof**.
 
-An integer larger than one is said to be **prime** if it can't be written as a product of two smaller positive integers. If it can be written as a product of two smaller positive integers, than it is **composite**.
+An integer larger than one is said to be [[prime]] if it can't be written as a product of two smaller positive integers. If it can be written as a product of two smaller positive integers, than it is [[composite]].
 
 
 
@@ -20,10 +20,10 @@ An integer larger than one is said to be **prime** if it can't be written as a p
 | 9   | no          | 511     | no: $255=15\cdot 17$ |
 | 10  | no          | 1023    | no:$1023=31\cdot 33$ |
 
-Conjecture 1:
+Conjecture 1: [[Conjecture 1 about prime]]
 Suppose $n$ is an integer larger than $1$ and $n$ is a prime. Then $2^n-1$ is prime.
 
-Conjuecture 2:
+Conjuecture 2: [[Conjecture 2 about prime]]
 Suppose $n$ is an integer larger than $1$ and $n$ is not prime. Then $2^n-1$ is not prime.
 
 
@@ -44,13 +44,15 @@ xy&=(2^b -1)\cdot (1+2^b+2^{2b}+\dots+2^{(a-1)b})\\
 &=2^n-1
 \end{aligned}
 $$
+
 Since $b<n$, we can conclude that $x=2^b-1<2^n-1$, Also, since $ab=n>a$, it follows that $b>1$. Therefore, $x=2^b-1>2^1-1=1$, so $y<xy=2^n-1$. Thus, we have shown that $2^n-1$ can be written as the product of two positive integers $x$ and $y$, both of which are smaller than $2^n-1$, so $2^n-1$ is not prime.
 
-Now that the conjecture has been proven, we can call it a **theorem**.
+Now that the conjecture has been proven, we can call it a [[theorem]].
 
-If we continue checking prime number $n$ to see if $2^n-1$ is prime, will we continue to find counterexamples to the conjecture 1?
+If we continue checking prime number $n$ to see if $2^n-1$ is prime, will we continue to find counterexamples to the [[Conjecture 1 about prime]]? Will we continue to find examples for which $2^{n}-1$ is prime? If there were only finitely many prime numbers, then we might be able to investigate these questions by simply checking $2^{n}-1$ for every prime number $n$. But in fact there are infinitely many prime numbers. 
 
-Theorem 3 There are infinitely many prime numbers.
+Theorem 3. There are infinitely many prime numbers. [[infinite prime numbers]]
+
 Proof. Suppose there are only finitely may prime numbers. Let $p_{1}, p_{2}, \dots p_{n}$ be a list of all prime numbers. Let $m=p_{1}p_{2}\dots p_{n} +1$. Note that m  is not divisible by $p_{1}$, since dividing $m$ by $p_{1}$ gives a quotient of $p_{2}\dots p_{n}$ and a remainder of $1$, Similarly, $m$ is not divisible by any of $p_{2},p_{3},\dots p_{n}$.
 
 Every integer larger than $1$ is either prime or can be written as a product of two or more primes. Clearly $m$ is larger than $1$, so $m$ is either prime or a product of primes. Suppose first that $m$ is prime. Note that $m$ is larger than all of the numbers in the list $p_{1}, p_{2}, \dots, p_{n}$, so we've found a prime number not in the list. But this contradicts our assumption that this was a list of all prime numbers.

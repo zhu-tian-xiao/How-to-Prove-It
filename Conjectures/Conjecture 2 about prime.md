@@ -1,0 +1,16 @@
+Conjecture 2. Suppose $n$ is an integer larger than $1$ and $n$ is not prime. Then $2^{n}-1$ is not prime.
+
+Proof of Conjecture 2: Since $n$ is not prime, there are positive integers a and b such that $a<n$, $b<n$, and $n=ab$. Let $x=2^b-1$, and $y=1+2^b+2^{2b}+\dots+2^{(a-1)b}$. Then 
+
+$$
+\begin{aligned}  
+xy&=(2^b -1)\cdot (1+2^b+2^{2b}+\dots+2^{(a-1)b})\\
+&=2^b\cdot(1+2^b+2^{2b}+\dots+2^{(a-1)b})-(1+2^b+2^{2b}+\dots+2^{(a-1)b})\\
+&=(2^b+2^{2b}+\dots+2^{ab})-(1+2^b+2^{2b}+\dots+2^{(a-1)b})\\
+&=2^{ab}-1\\
+&=2^n-1
+\end{aligned}
+$$
+
+Since $b<n$, we can conclude that $x=2^b-1<2^n-1$, Also, since $ab=n>a$, it follows that $b>1$. Therefore, $x=2^b-1>2^1-1=1$, so $y<xy=2^n-1$. Thus, we have shown that $2^n-1$ can be written as the product of two positive integers $x$ and $y$, both of which are smaller than $2^n-1$, so $2^n-1$ is not prime.
+

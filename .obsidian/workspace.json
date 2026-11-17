@@ -13,86 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.3 Proofs Involving Quantifiers.md",
+                "file": "Exercises/ch1/2.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Proofs Involving Quantifiers"
+              "title": "2"
             }
           },
           {
-            "id": "a42e2df4998b2b3d",
+            "id": "36851b23bbfd4d10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.1 Proof Stategies.md",
+                "file": "Exercises/ch1/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Proof Stategies"
+              "title": "1"
             }
           },
           {
-            "id": "7d676dc7d7a9b123",
+            "id": "caeabaa44e57816e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs/3.5 Proofs Involving Disjunctions.md",
+                "file": "Chapters/1 Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 Proofs Involving Disjunctions"
-            }
-          },
-          {
-            "id": "95db613ed58fc768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/4.5 Equivalence Relations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.5 Equivalence Relations"
-            }
-          },
-          {
-            "id": "a1a4cf215344007b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/4.2 Relations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.2 Relations"
-            }
-          },
-          {
-            "id": "0aa77b3901c48215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relations/4.3 More about relations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.3 More about relations"
+              "title": "1.1 Deductive Reasoning and Logical Connectives"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2k+1",
+                "query": "xy=(2^{b}-1)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,12 +126,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exercises/ch1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -180,11 +140,12 @@
             }
           },
           {
-            "id": "a74de7b5eda89233",
+            "id": "b75468fd72f2bc8c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exercises/ch1/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -199,7 +160,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -227,22 +188,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
+                "file": "Exercises/ch1/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.4 Proofs Involving Conjunctions and Biconditionals 的大纲"
+              "title": "大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,41 +216,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "95db613ed58fc768",
+  "active": "36851b23bbfd4d10",
   "lastOpenFiles": [
-    "Functions/5.1 Functions.md",
-    "Relations/4.5 Equivalence Relations.md",
-    "Functions",
-    "Proofs/3.5 Proofs Involving Disjunctions.md",
-    "Proofs/3.4 Proofs Involving Conjunctions and Biconditionals.md",
-    "Relations/4.4 Ordering relations.md",
-    "Relations/4.3 More about relations.md",
-    "Relations/4.2 Relations.md",
-    "Relations/4.1 Ordered Pairs and Cartesian Products.md",
-    "Relations",
+    "Exercises/ch1/2.md",
+    "Exercises/ch1/1.md",
+    "Chapters/1 Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
+    "Chapters/1 Sentential Logic/1.2 Truth Tables.md",
+    "Topics/未命名.md",
+    "Definitions/connective symbol.md",
+    "Definitions/valid.md",
+    "Definitions/argument.md",
+    "Definitions/premise.md",
+    "premise.md",
+    "Topics",
+    "Definitions/conclusion.md",
+    "Chapters/introduction.md",
+    "Theorems/infinite prime numbers.md",
+    "Theorems",
+    "Conjectures/Conjecture 1 about prime.md",
+    "Definitions/conjecture.md",
+    "Definitions/theorem.md",
+    "Conjectures/Conjecture 2 about prime.md",
+    "Definitions/prime.md",
+    "Chapters",
+    "Conjectures",
+    "Definitions/composite.md",
+    "Definitions",
+    "Exercises/ch1",
+    "Exercises",
+    "Chapters/Proofs/3.2 Proofs Involving Negations and Conditionals.md",
+    "Chapters/Proofs/3.3 Proofs Involving Quantifiers.md",
     "未命名.canvas",
-    "2026-10-13.md",
-    "未命名.md",
-    "Proofs/3.6 Existence and Uniqueness Proofs.md",
-    "Proofs/3.7 More Examples of Proofs.md",
-    "introduction.md",
-    "Proofs/3.3 Proofs Involving Quantifiers.md",
-    "Proofs/3.1 Proof Stategies.md",
-    "Proofs/3.2 Proofs Involving Negations and Conditionals.md",
-    "Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
-    "README.md",
-    "Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
-    "Sentential Logic/1.4 Operation on sets.md",
-    "Sentential Logic/1.3 Variables and Sets.md",
-    "Sentential Logic/1.2 Truth Tables.md",
-    "Quantificational Logic/2.3 More Operations on Sets.md",
-    "latex-suite-snippets.md",
-    "Codex Latex Suite Test.md",
-    "latex-suite-snippets.js",
-    "Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
-    "Proofs",
-    "Quantificational Logic",
-    "Sentential Logic",
-    "新建 文本文档.txt"
+    "Chapters/Proofs/3.1 Proof Stategies.md",
+    "Chapters/Quantificational Logic/2.2 Equivalences involving Quantifiers.md",
+    "Excalidraw/Drawing 2026-11-11 10.21.47.excalidraw.md",
+    "Chapters/Functions/5.1 Functions.md",
+    "Excalidraw",
+    "Chapters/Relations/4.5 Equivalence Relations.md",
+    "Chapters/Functions",
+    "Chapters/Relations"
   ]
 }

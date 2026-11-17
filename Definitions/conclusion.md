@@ -1,0 +1,1 @@
+We have arrived at a conclusion from the assumption that some other statements, called [[Definitions/premise]], are true.
