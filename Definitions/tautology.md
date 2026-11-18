@@ -1,0 +1,1 @@
+Formulas that are always true, such as $P\lor \neg P$, are called [[tautologies]].

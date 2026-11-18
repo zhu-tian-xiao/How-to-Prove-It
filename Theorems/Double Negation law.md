@@ -1,0 +1,1 @@
+$\neg \neg P$ is equivalent to P

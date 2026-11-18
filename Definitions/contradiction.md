@@ -1,0 +1,1 @@
+Formulas that are always false are called contradictions.
