@@ -1,0 +1,1 @@
+The truth set of a statement $P(x)$ is the set of all values of $x$ that make the statement $P(x)$ true. In other words, It is the set defined by using the statement $P(x)$ as an elementhood test: $\{ x\mid P(x) \}$.

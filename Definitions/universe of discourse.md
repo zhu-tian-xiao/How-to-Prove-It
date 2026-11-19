@@ -1,0 +1,1 @@
+When a statement contains free variables, it it often clear from context that these variables stand for objects of a particular kind.  The set of all objects of this kind - in other words, the set of all possible values for the variables - is called the universe of discourse for the statement, and we say that the variable **range over** this universe.

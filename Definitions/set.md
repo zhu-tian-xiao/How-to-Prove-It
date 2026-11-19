@@ -1,0 +1,13 @@
+A set is a collection of objects. The objects in the collection are called the elements of the set.
+
+We use the symbol $\in$ to mean **is an element of**.
+
+A set is completely determined once its elements have been specified. Thus two sets that have exactly the same elements are always equal. [[Axiom of extensionality]] Also, when a set is defined by listing its elements, all that matters is which obects are in the list of elements, not the order in which they are listed. An element can even appear more than once in the list. Thus, $\{ 3,7,14 \}$, $\{ 14,3,7 \}$, and $\{ 3,7,14,7 \}$ are three different names for the same set.
+
+It may be impractical(不现实地) to define a set that contains a very large number of elements by listing all of its elements, and it would be impossible to give such a definition for a set that contains infinitely many elements. Often this problem can be overcome by listing a few elements with an ellipsis (...) after them, if it is clear that the list should be continued. For example, suppose we define a set $B$ by saying that $B=\{ 2,3,5,7,11,13,17\dots \}$. Once you recognize that the numbers listed in the definition of $B$ are the prime numbers, then you know that, for example, $23\in B$, even though it wosn't listed explicitly when we defined $B$. But this method requires recognition of the pattern in the list of numbers in the definition of $B$, and this requirement introduces an element of ambiguity and subjectivity into our notation that is best avoided in mathematical writing. It is therefore usually better to define such a set by spelling out the pattern that determines the elments of the set.
+
+In this case we could be explicit by defining $B$ as follows:
+
+$$B=\{ x\mid x \text{ is a prime number.} \}$$
+
+This is read "$B$ is equal to the set of all $x$ such that $x$ is a prime number," and it means that the elements of $B$ are the values of $x$ that make the statement "$x$ is a prime number" come out true. You should think of the statement "$x$ is a prime number" as an **elementhood test** for the set. Any value of $x$ that makes the statement come out true passes the test and is an element of the set. Anything else fails the test and is not an element. Of course, in this case the values of $x$ that make the statement true are precisely the prime numbers, so this definition says that $B$ is the set whose elements are the prime numbers, exactly as before.

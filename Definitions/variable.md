@@ -1,0 +1,7 @@
+In mathematical reasoning it is often necessary to make statements about objects that are represented by letters callled variables.
+
+For example, if the variable $x$ is used to stand for a number in some problem, we might be interested in the statement "$x$ is a prime number." Although we may sometimes use a single letter, say $P$, to stand for this statement, at other times we will revise this notation slightly and write $P(x)$, to stress that this is a statement about $x$. The latter notation makes it easy to talk about assigning a value to $x$ in the statement. For example, $P(7)$ would represent the statement "$7$ is a prime number," and $P(a+b)$ would mean "$a+b$ is a prime number." If a statemnt contains more than one variable, our abbreviation for the statement will include a list of all the variables involved. For example, we might represent the statement "$p$ is divisible by $q$" by $D(p,q)$. In this cases, $D(12,4)$ would mean "$12$ is divisible by $4$."
+
+Although you have probably seen variables used most often to stand for numbers, they can stand for anything at all. For example, we could let $M(x)$ stand for the statement "$x$ is a man," and $W(x)$ for "$x$ is a woman." In this case, we are using the variable $x$ to stand for a person.  A statement might even contain several variables that stand for different kinds of objects. For example,  "$x$ has $y$ children," the variable $x$ stands for a person, and $y$ stands for a number.
+
+Statements involving variables can be combined using connectives, just like statements without variables.
