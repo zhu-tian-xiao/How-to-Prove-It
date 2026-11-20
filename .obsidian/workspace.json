@@ -11,28 +11,30 @@
             "id": "543e357f075221be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/intersection.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "intersection.excalidraw"
             }
           },
           {
-            "id": "0d863c5ae15e7870",
+            "id": "30931d02a0ea3f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/difference.md",
+                "file": "Chapters/1 Sentential Logic/1.4 Operation on sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "difference"
+              "title": "1.4 Operation on sets"
             }
           },
           {
-            "id": "189b6f35a1961d1a",
+            "id": "77c6c306594a1288",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,8 +46,51 @@
               "icon": "lucide-file",
               "title": "union"
             }
+          },
+          {
+            "id": "bc38799115e04fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/intersection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intersection"
+            }
+          },
+          {
+            "id": "dfa8dd9daf3e1e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/intersection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intersection"
+            }
+          },
+          {
+            "id": "28dca095ee8e5e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/disjoint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "disjoint"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,29 +165,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/truth set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "反向链接"
-            }
-          },
-          {
-            "id": "b75468fd72f2bc8c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
             }
           },
           {
@@ -180,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercises/ch1/5.md",
+                "file": "Definitions/disjoint.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +221,33 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "b863e82de7d7ded8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Definitions/union.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6bd0d9813974e74f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw 侧边面板"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,46 +265,46 @@
       "bases:新建数据库": false
     }
   },
-  "active": "543e357f075221be",
+  "active": "77c6c306594a1288",
   "lastOpenFiles": [
-    "Chapters/1 Sentential Logic/1.4 Operation on sets.md",
-    "Definitions/difference.md",
-    "Definitions/union.md",
     "Definitions/intersection.md",
-    "Chapters/1 Sentential Logic/1.3 Variables and Sets.md",
-    "Chapters/1 Sentential Logic/1.1 Deductive Reasoning and Logical Connectives.md",
-    "Exercises/1.3/9.md",
-    "Exercises/1.1/1.md",
-    "Exercises/1.3/8.md",
-    "Exercises/1.3/7.md",
-    "Exercises/1.3/6.md",
-    "Exercises/1.3/5.md",
-    "Exercises/1.3/4.md",
-    "Exercises/1.3/3.md",
-    "Exercises/1.3/2.md",
-    "Exercises/1.3/1.md",
-    "Definitions/empty set.md",
-    "Definitions/set.md",
-    "Topics/Axiom of extensionality.md",
-    "Definitions/universe of discourse.md",
-    "Definitions/truth set.md",
-    "Examples/1.3/Example 1.3.3.md",
-    "Definitions/variable.md",
+    "Definitions/union.md",
+    "Chapters/1 Sentential Logic/1.4 Operation on sets.md",
+    "Excalidraw/intersection.excalidraw.md",
+    "Excalidraw/union.excalidraw.md",
+    "Exercises/1.4/1.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "Exercises/1.4/17.md",
+    "Exercises/1.4/16.md",
+    "Exercises/1.4/15.md",
+    "Exercises/1.4/13.md",
+    "Exercises/1.4/14.md",
+    "Exercises/1.4/12.md",
+    "Exercises/1.4/11.md",
+    "Exercises/1.4/10.md",
+    "Exercises/1.4/9.md",
+    "Exercises/1.4/8.md",
+    "Exercises/1.4/7.md",
+    "Exercises/1.4/6.md",
+    "Exercises/1.4/5.md",
+    "Exercises/1.4/4.md",
+    "Exercises/1.4/3.md",
+    "Exercises/1.4/2.md",
+    "Exercises/1.4",
+    "Theorems/1.4/7.md",
+    "Theorems/1.4",
+    "Definitions/disjoint.md",
+    "Definitions/未命名.md",
+    "Chapters/1 Sentential Logic/1.5 The Conditional and Biconditional Connectives.md",
     "Examples/1.3",
     "Examples",
-    "Chapters/1 Sentential Logic/1.2 Truth Tables.md",
     "Exercises/1.3",
-    "Exercises/1.2/3.md",
-    "Exercises/1.1/8.md",
     "Pasted image 20261118154311.png",
     "Pasted image 20261118154205.png",
     "Exercises/1.2",
     "Topics",
-    "Theorems",
-    "Chapters",
-    "Conjectures",
-    "Definitions",
-    "Exercises/1.1",
     "未命名.canvas"
   ]
 }

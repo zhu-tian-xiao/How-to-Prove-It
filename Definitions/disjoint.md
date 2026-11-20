@@ -1,0 +1,1 @@
+$A$ and $B$ are said to be disjoint if they have no elements in common. Note that this is the same as saying that the [[set]] of elements they have in common is the empty  set, or in other words $A\cap B=\emptyset$.

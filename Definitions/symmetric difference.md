@@ -1,0 +1,1 @@
+$A\triangle B=(A\setminus B)\cup(B\setminus A)=(A\cup B)\setminus(A\cap B)$.

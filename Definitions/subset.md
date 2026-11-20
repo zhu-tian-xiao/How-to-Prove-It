@@ -1,0 +1,1 @@
+Suppose $A$ and $B$ are [[set]]s. We will say that $A$ is subset of $B$ if every element of $A$ is also an element of $B$. We write $A\subseteq B$ to mean that $A$ is a subset of $B$. 

@@ -1,1 +1,1 @@
-If a conjecture has been proven, we can call it a theorem.
+If a [[conjecture]] has been proven, we can call it a theorem.
